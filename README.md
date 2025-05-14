@@ -11,3 +11,8 @@ Bu proje, bir oyun satış ve firma yönetim sistemi simülasyonudur. Kullanıc�
 
 ## Kullanılan Teknolojiler 
 - Dosya İşlemleri (`fstream` kütüphanesi)
+
+## Çıktılar
+- Alınan ürünlerin faturası
+- `fatura.txt` dosyasında:
+  - Alınan ürünlerin toplam ücret bilgisi
