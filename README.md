@@ -15,4 +15,4 @@ Bu proje, bir oyun satış ve firma yönetim sistemi simülasyonudur. Kullanıc�
 ## Çıktılar
 - Alınan ürünlerin faturası
 - `fatura.txt` dosyasında:
-  - Alınan ürünlerin toplam ücret bilgisi
+  - Alınan ürünlerin toplam ücret bilgisi 
